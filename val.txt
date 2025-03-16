@@ -1,0 +1,12 @@
+D://Dataset/exploration_database_and_code/pristine_images/04712.bmp
+D://Dataset/exploration_database_and_code/pristine_images/04713.bmp
+D://Dataset/exploration_database_and_code/pristine_images/04714.bmp
+D://Dataset/exploration_database_and_code/pristine_images/04715.bmp
+D://Dataset/exploration_database_and_code/pristine_images/04716.bmp
+D://Dataset/exploration_database_and_code/pristine_images/04717.bmp
+D://Dataset/exploration_database_and_code/pristine_images/04718.bmp
+D://Dataset/exploration_database_and_code/pristine_images/04719.bmp
+D://Dataset/exploration_database_and_code/pristine_images/04720.bmp
+D://Dataset/exploration_database_and_code/pristine_images/04721.bmp
+D://Dataset/exploration_database_and_code/pristine_images/04722.bmp
+D://Dataset/exploration_database_and_code/pristine_images/04723.bmp
